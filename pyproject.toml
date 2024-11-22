@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "fastapi_cache"
+version = "0.1.0"
+description = "Cache management for FastAPI"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
